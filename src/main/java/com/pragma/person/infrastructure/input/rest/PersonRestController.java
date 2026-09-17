@@ -22,7 +22,7 @@ import jakarta.validation.Valid;
 import java.util.List;
 
 @RestController
-@RequestMapping("/api/v1/person")
+@RequestMapping("/api/v1/persons")
 @RequiredArgsConstructor
 public class PersonRestController {
 
